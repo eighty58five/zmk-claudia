@@ -23,7 +23,7 @@
                 <&pro_micro 18 GPIO_ACTIVE_HIGH>;
 
     row-gpios = <&pro_micro 01 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
-                <&pro_micro 08 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
+                <&pro_micro 02 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
                 <&pro_micro 07 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>,
                 <&pro_micro 06 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>;
     };
